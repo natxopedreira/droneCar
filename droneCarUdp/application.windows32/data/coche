@@ -1,0 +1,5 @@
+wifiCar
+direccion	direccion coche	3	SLIDER	X Axis	0	1.0	0.0
+gas	gas, positvo atras, negativo alante	3	SLIDER	Y Axis	0	1.0	0.0
+subir_marcha	marcha up	1	BUTTON	Button 2	0	0.0	0.0
+bajar_marcha	marcha down	1	BUTTON	Button 1	0	0.0	0.0
